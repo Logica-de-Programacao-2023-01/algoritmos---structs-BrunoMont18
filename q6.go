@@ -30,7 +30,7 @@ func (f *Funcionario) TempoServico() int {
 
 func main() {
 	funcionario := Funcionario{
-		Nome:    "João",
+		Nome:    "Jonas",
 		Salario: 3000,
 		Idade:   25,
 	}
