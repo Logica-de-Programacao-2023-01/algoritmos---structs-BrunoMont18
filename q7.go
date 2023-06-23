@@ -25,7 +25,7 @@ func (a Animal) ImprimirInformacoes() {
 func main() {
 	animal := Animal{
 		Nome:    "Cachorro",
-		Especie: "Canis lupus familiaris",
+		Especie: "Dobermann",
 		Idade:   5,
 		Som:     "Latido",
 	}
